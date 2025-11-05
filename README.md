@@ -16,9 +16,7 @@ O sistema realiza o sorteio de nomes entre amigos para um Amigo Secreto, garanti
 
 ## Tecnologias utilizadas
 
-- Linguagem: Python (ou JavaScript, Java, etc. — ajuste conforme o projeto)  
-- Biblioteca: random (para gerar o sorteio)  
-- Ferramentas opcionais: interface simples em terminal ou navegador
+- Linguagem: JavaScript
 
 ---
 
