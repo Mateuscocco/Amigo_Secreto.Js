@@ -34,5 +34,5 @@ Este projeto foi criado para praticar:
 
 ## Como executar
 - Baixe o projeto
-- 
+- Abra o arquivo index.html no navegador
 
